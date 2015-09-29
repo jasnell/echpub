@@ -1,0 +1,22 @@
+{
+  "name": "echpub",
+  "version": "0.0.1",
+  "description": "Echnidna Publish Client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "James M Snell <jasnell@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "columnify": "^1.5.2",
+    "commander": "^2.8.1",
+    "configstore": "^1.2.1",
+    "flat": "^1.6.0",
+    "request": "^2.64.0"
+  },
+  "bin": {
+    "echpub": "./index.js"
+  },
+  "preferGlobal": true
+}

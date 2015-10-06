@@ -1,7 +1,7 @@
 {
   "name": "echpub",
   "version": "0.0.2",
-  "description": "Echnidna Publish Client",
+  "description": "Echidna Publish Client",
   "main": "index.js",
   "scripts": {
     "start": "node index"
